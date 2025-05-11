@@ -1,0 +1,6 @@
+requirements:
+streamlit
+tensorflow
+Pillow
+numpy
+
